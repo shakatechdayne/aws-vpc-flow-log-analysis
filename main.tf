@@ -99,8 +99,8 @@ resource "aws_lambda_function" "dp_flow_log_exec_lambda" {
 
 // Lambda Partition Athena
 resource "aws_lambda_function" "dp_athena_partition_exec_lambda" {
-  filename = "${path.module}/files/partitioning_lambda/target/aws-lambda-athena-1.0.0.jar"
-  source_code_hash = "${base64sha256(file("${path.module}/files/partitioning_lambda/target/aws-lambda-athena-1.0.0.jar"))}"
+  filename = "${path.module}/files/partitioning_lambda/aws-lambda-athena-1.0.0.jar"
+  source_code_hash = "${base64sha256(file("${path.module}/files/partitioning_lambda/aws-lambda-athena-1.0.0.jar"))}"
   function_name = "CreateAthenaPartitions"
   handler = "com.amazonaws.services.lambda.CreateAthenaPartitionsBasedOnS3Event::handleRequest"
   role = "${aws_iam_role.dp_iam_lambda_athena_exec_role.arn}"
