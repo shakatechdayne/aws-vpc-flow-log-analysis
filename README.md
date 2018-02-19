@@ -1,4 +1,4 @@
-# TF VPC Flow Analysis
+# AWS VPC Flow Log Analysis Tool
 A Terraform module to deploy and configure a serverless VPC Flow Logs analysis tool.
 It utilises CloudWatch Logs, S3, Lambda, Kinesis Firehose and Athena. The data is partitioned
 and compressed to save on Athena costs. In general this setup can save up to 50% of costs
