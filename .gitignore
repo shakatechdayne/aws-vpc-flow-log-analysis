@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.terraform/
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.kitchen/
+**.DS_Store
+**.jar
+credentials.tf
+*.swp
