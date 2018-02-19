@@ -18,7 +18,7 @@ However, this module has been extended by making the ingestion lambda include tr
 - `Partitioning Lambda` - The Lambda Function that creates the Athena table partition based on (Month, Day, Hour).
 - `Athena DB` - The Athena DB that can be queried via ad-hoc and named queries.
 
-![Screenshot](files/dp_flow_log_analysis.png)
+![Screenshot](files/aws_flow_log_analysis.png)
 
 ## Module Inputs
 You have to supply the respective variable (`flVpcId`, `flSubnetId`, `flEniId`) when you select the VPC deployment type `flFootPrint` (`vpc`,`subnet` or `eni`).
