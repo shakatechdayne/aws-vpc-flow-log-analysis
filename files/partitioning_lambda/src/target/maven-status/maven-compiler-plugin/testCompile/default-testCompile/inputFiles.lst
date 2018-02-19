@@ -1,0 +1,4 @@
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/test/java/com/amazonaws/services/lambda/model/S3ObjectTest.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/test/java/com/amazonaws/services/lambda/RemoveAthenaPartitionsTest.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/test/java/com/amazonaws/services/lambda/utils/TimeUnitParserTest.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/test/java/com/amazonaws/services/lambda/model/PartitionTypeTest.java

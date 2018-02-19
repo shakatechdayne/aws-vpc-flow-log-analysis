@@ -1,0 +1,12 @@
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/CreateAthenaPartitionsBasedOnS3Event.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/PartitionConfig.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/TableService.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/utils/TimeUnitParser.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/utils/EnvironmentVariableUtils.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/PartitionType.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/RemoveAthenaPartitions.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/ExpirationConfig.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/utils/Clock.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/S3Object.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/RemoveAthenaPartitionsBasedOnS3Event.java
+/Users/dlucas/Datapipe/projects/aws-big-data-blog/aws-blog-vpcflowlogs-athena-quicksight/PartitioningFunction/src/main/java/com/amazonaws/services/lambda/model/Partition.java

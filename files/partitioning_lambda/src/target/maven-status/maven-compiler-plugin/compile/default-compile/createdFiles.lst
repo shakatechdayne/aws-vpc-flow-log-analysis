@@ -1,0 +1,17 @@
+com/amazonaws/services/lambda/utils/Clock.class
+com/amazonaws/services/lambda/utils/TimeUnitParser.class
+com/amazonaws/services/lambda/model/Partition.class
+com/amazonaws/services/lambda/utils/EnvironmentVariableUtils.class
+com/amazonaws/services/lambda/model/PartitionType.class
+com/amazonaws/services/lambda/model/S3Object.class
+com/amazonaws/services/lambda/utils/Clock$1.class
+com/amazonaws/services/lambda/model/PartitionConfig.class
+com/amazonaws/services/lambda/model/PartitionType$2.class
+com/amazonaws/services/lambda/model/PartitionType$3.class
+com/amazonaws/services/lambda/RemoveAthenaPartitionsBasedOnS3Event.class
+com/amazonaws/services/lambda/CreateAthenaPartitionsBasedOnS3Event.class
+com/amazonaws/services/lambda/model/TableService$AthenaConnection.class
+com/amazonaws/services/lambda/model/TableService.class
+com/amazonaws/services/lambda/model/PartitionType$1.class
+com/amazonaws/services/lambda/model/ExpirationConfig.class
+com/amazonaws/services/lambda/RemoveAthenaPartitions.class

@@ -1,0 +1,4 @@
+com/amazonaws/services/lambda/RemoveAthenaPartitionsTest.class
+com/amazonaws/services/lambda/utils/TimeUnitParserTest.class
+com/amazonaws/services/lambda/model/S3ObjectTest.class
+com/amazonaws/services/lambda/model/PartitionTypeTest.class
